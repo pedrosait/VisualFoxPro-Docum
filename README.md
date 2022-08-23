@@ -47,3 +47,13 @@ Obtener Fecha y Hora
 ```
 DateTime()
 ```
+
+Dia de la semana
+```
+DOW(Date())
+```
+
+Longitud de un Array
+```
+ALEN(myArray)
+```
