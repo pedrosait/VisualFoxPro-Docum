@@ -9,3 +9,18 @@ Como sumar dos números
 ```
 ThisForm.txtResultado.Value = Float(Val(txtNum1.Value)) + Float(Val(txtNum2.Value))
 ```
+
+Como restar dos números
+```
+ThisForm.txtResultado.Value = Float(Val(txtNum1.Value)) - Float(Val(txtNum2.Value))
+```
+
+Como restar dos números
+```
+ThisForm.txtResultado.Value = Float(Val(txtNum1.Value)) * Float(Val(txtNum2.Value))
+```
+
+Como restar dos números
+```
+ThisForm.txtResultado.Value = Float(Val(txtNum1.Value)) / Float(Val(txtNum2.Value))
+```
