@@ -37,3 +37,13 @@ ELSE
   Messagebox("Eres mayor de edad")
 ENDIF
 ```
+
+Obtener Fecha
+```
+Date()
+```
+
+Obtener Fecha y Hora
+```
+DateTime()
+```
