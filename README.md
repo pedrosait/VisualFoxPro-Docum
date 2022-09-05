@@ -57,3 +57,8 @@ Longitud de un Array
 ```
 ALEN(myArray)
 ```
+
+Operador Ternario en VFP
+```
+IIF(nEdad < 18, "¡Eres menor de edad!", "¡Eres mayor de edad!")
+```
