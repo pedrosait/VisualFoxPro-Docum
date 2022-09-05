@@ -62,3 +62,10 @@ Operador Ternario en VFP
 ```
 IIF(nEdad < 18, "¡Eres menor de edad!", "¡Eres mayor de edad!")
 ```
+
+Bloque With
+```
+WITH <Objecto>
+  <Propiedades a modificar>
+ENDWITH
+```
